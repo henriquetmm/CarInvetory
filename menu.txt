@@ -1,0 +1,10 @@
+SPECIALTY IMPORTS VEHICLE SALES
+
+Select one of the following options:
+ a: Enter a new Customer
+ b: Lookup a Customer
+ c: Enter a new Vehicle Inventory Record
+ d: Lookup a Vehicle Inventory Record
+ e: Enter a new Sales Invoice
+ f: Lookup a Sales Invoice
+ x: Exit
